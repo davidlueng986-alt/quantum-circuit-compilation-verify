@@ -1,0 +1,13 @@
+*.kmb
+*.kmx
+*.npz
+*.zip
+*.log
+.env
+.env.*
+kaggle.json
+data/
+inputs/
+outputs/
+artifacts/
+__pycache__/
